@@ -1,0 +1,9 @@
+[00:00:01.990] Server  LOG      ✓ Ready in 1784ms
+[00:00:03.437] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:03.545] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:08.079] Server  LOG     /dashboard/invoices
+[00:00:08.304] Server  LOG     /dashboard/customers
+[00:00:08.323] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.324] Browser LOG     /dashboard/invoices
+[00:00:08.324] Browser LOG     /dashboard/invoices
